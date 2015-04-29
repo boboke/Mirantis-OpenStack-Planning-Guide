@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [Mirantis Openstack 和 Fuel 简介](introduction/README.md)
 * [系统要求](System_Requirements/README.md)
-   * [Fuel 主节点的硬件建议 ](System_Requirements/Fuel_Node.md)
+   * [Fuel 主节点的硬件建议](System_Requirements/Fuel_Node.md)
    * [Target 节点服务器硬件的建议](System_Requirements/Target_Node.md)
    * [Target 节点硬件配置](System_Requirements/configuration.md)
    * [概要](System_Requirements/Summary.md)
@@ -83,3 +83,4 @@
    * [WordPress](appendix_repo/wordpress.md)
    * [Node.js](appendix_repo/nodejs.md)
 * [附录三：有用的资源](appendix_resources/README.md)
+
