@@ -1,15 +1,21 @@
 欢迎来到 Mirantis OpenStack 文档中心
 ===============
-Mirantis OpenStack 是由三个组成部分构成:
+# Mirantis OpenStack 是由三个组成部分构成: #
+
 
 **Hardened packages in Mirantis OpenStack**. Hardened packages in Mirantis OpenStack 包含核心OpenStack项目， 随着OpenStack每个稳定版本更新，支持范围广泛的操作系统、虚拟机监控程序和部署拓扑。 
 **Fuel**. Fuel是一种开放源码，通过一个单一的界面部署多个OpenStack环境的软件生命周期管理应用程序,并且使您能够管理这些环境部署。
 **Support**. 30天免费基础试用支持。
 
-此页面包含最新的Mirantis OpenStack的文档。从以下列表中选择你需要的标题，每个标题就是一个文档手册。 
+此页面包含最新的Mirantis OpenStack的文档。从以下列表中选择你需要的标题，每个标题就是一个文档手册。
+
+## Mirantis OpenStack 规划指南 ##
+
+
+您在准备安装Fuel和部署Mirantis OpenStack之前应该考虑规划信息 
 
 ## 主要版本历史
-* 0.1: 2014-09-05
+* 0.1: 2015-04-29
     * 添加基本内容;
     * 修正错别字和表达不通顺的地方。
 
